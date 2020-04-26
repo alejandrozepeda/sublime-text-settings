@@ -2,7 +2,7 @@
 Personal settings for Sublime Text
 
 
-## Settings 
+## Settings 
 
 ```
 {
@@ -40,7 +40,7 @@ Personal settings for Sublime Text
 }
 ```
 
-## Key Bindings  
+## Key Bindings  
 
 ```
 [
