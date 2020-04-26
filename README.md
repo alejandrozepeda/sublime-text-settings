@@ -5,8 +5,8 @@ Personal settings for Sublime Text
 ## Settings 
 
 ```
-{
-	"bold_folder_labels": true,
+{ 
+  "bold_folder_labels": true,
   "caret_style": "phase",
   "color_scheme": "Packages/Inspired GitHub Color Scheme/InspiredGitHub.tmTheme",
   "dictionary": "Packages/Language - English/en_US.dic",
